@@ -1,0 +1,18 @@
+.container {
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 22vw;
+    font-size: 10px;
+    opacity: 0.6;
+    background: linear-gradient(to right, #ff4646, #ff8585);
+    border-radius: 10px;
+}
+
+.text {
+    color: red;
+    padding: 30px;
+}
